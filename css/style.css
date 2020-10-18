@@ -1,0 +1,32 @@
+
+
+header{
+    height: 100px;
+    background-color: rgb(199, 169, 3);
+
+}
+article{
+    width: 30%;
+    background-color: lemonchiffon;
+    height: 400px;
+    float: left;
+
+}
+aside{
+    width: 70%;
+    background-color: orange;
+    height: 400px;
+    float: right;
+
+}
+
+footer{
+    height: 100px;
+    background-color: teal;
+
+}
+
+
+div{
+    overflow: hidden;
+}
